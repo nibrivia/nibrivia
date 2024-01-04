@@ -18,5 +18,7 @@ I also made the tools to make interactives, the tools to make the tools, the too
 
 Before I was at MIT, ostensibly doing grad school, but mostly teaching computer systems (OSes, Networks, Distributed Systems, Digital Design, Distributed Systems, Security) as a faculty-level instructor.
 
+I once wrote a (very) fast [packet-level datacenter network simulator](https://github.com/nibrivia/rustasim). If you're interested in it, or want to know more of how it works, contact me!
+
 I also spent a year as a data analyst at [iCivics](https://www.icivics.org/), a non-profit dedicated to teaching civics to millions of students every year.
 They're an awesome group of people putting together excellent materials, go check them out!
