@@ -19,8 +19,7 @@ My skills generally lie in my breadth of expertise: I am effective in [Haskell](
 My ability to explain (very) technical concepts to a less-technical audience is frequently highlighted, most publicly by MIT in its [highest teaching award for students](https://oge.mit.edu/community-diversity/awards-recognition/the-goodwin-medal/2020-olivia-brode-roger/) for my work teaching Computer Systems (OSes, Networks, Distributed Systems, and Security), and Digital Design (from transistors to an OS).
 At every org I've been a part of, I've been praised for being able to identify and fix systemic issues, communicate across teams/departments , and "being a multiplier" for the team.
 
-If you're looking for an expert to build/lead your team in $X, that's (probably) not going to be me.
-If you're looking for someone who can effectively solve challenges as they come up, no matter the stack, and no matter the historical decisions that have led to that point, that could be me!
+If you're looking for an expert to build/lead your team in $X, that's (probably) not going to be me: I have not spent many years narrowly focused on a single stack.
 
 I am looking for jobs that are either remote (US), or on the eastern seaboard (between DC and Boston), with a preference towards Boston.
 
