@@ -22,6 +22,8 @@ At every org I've been a part of, I've been praised for being able to identify a
 If you're looking for an expert to build/lead your team in $X, that's (probably) not going to be me.
 If you're looking for someone who can effectively solve challenges as they come up, no matter the stack, and no matter the historical decisions that have led to that point, that could be me!
 
+I am looking for jobs that are either remote (US), or on the eastern seaboard (between DC and Boston), with a preference towards Boston.
+
 ### Previously
 
 I was a Senior Software Engineer at Brilliant.org where I made interactive web tools to teach learners STEM.
