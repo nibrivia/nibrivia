@@ -3,6 +3,9 @@
 I'm currently doing a batch at [the Recurse Center](https://www.recurse.com/) where I'm working on:
 
  - [Oak](https://github.com/nibrivia/oak): a weirdly-typed programming language that breaks the fourth wall: what does it mean to have first-class types? first-class expressions? what even is evaluation, really? (writeup incoming!)
+ - [CO2 bot](https://github.com/nibrivia/rc-CO2-bot) which checks the CO2 levels in the Recurse Center and messages out to the appropriate Zulip stream (Zulip stream ~== Slack channel)
+ - [stRs](https://github.com/nibrivia/stRs), a quickly hacked together live desktop background (and [web app](https://nibrivia.shinyapps.io/stRs/)) that shows the relative position of the Earth, stars, and planets
+ - Occasional, sporadic [blogging](https://nibrivia.com/)
  - (re)learning a bunch of stacks I've used, but never taken the time to deeply understand (ahem, CSS)
  - doing a bunch of miscellaneous projects on public transit, baseball, electricity markets, and more...
 
