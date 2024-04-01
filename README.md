@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm currently doing a batch at [the Recurse Center](https://www.recurse.com/) where I'm working on:
+I am currently working at [Column Tax](https://www.columntax.com/). 
+
+### Recurse Center
+
+I recently finished a batch at [the Recurse Center](https://www.recurse.com/scout/click?t=2923690777cb854252b26e9468a08fbb) where I worked on:
 
  - [Oak](https://github.com/nibrivia/oak): a weirdly-typed programming language that breaks the fourth wall: what does it mean to have first-class types? first-class expressions? what even is evaluation, really? (writeup incoming!)
  - [CO2 bot](https://github.com/nibrivia/rc-CO2-bot) which checks the CO2 levels in the Recurse Center and messages out to the appropriate Zulip stream (Zulip stream ~== Slack channel)
@@ -12,9 +16,6 @@ I'm currently doing a batch at [the Recurse Center](https://www.recurse.com/) wh
 I will be looking for a job at the conclusion of the batch (mid-February 2024), if you happen to be hiring, know of a job who would be a good fit, let me know :)
 
 ### whoami
-
-If you're a recruiter: _Hi! I hope you're having a wonderful day 💮._
-This section is for you.
 
 My skills generally lie in my breadth of expertise: I am effective in [Haskell](https://github.com/nibrivia/oak/tree/olivia/rewrite), [Python](https://github.com/nibrivia/darksky-terminal-weather), [Rust](https://github.com/nibrivia/rusty-beaver), with [high-performance parallel computing (also Rust)](https://github.com/nibrivia/rustasim), [data analysis (R)](https://github.com/nibrivia/plotypus), and full-stack applications.
 (The selection of these projects is necessarily limited due to IP constraints.)
