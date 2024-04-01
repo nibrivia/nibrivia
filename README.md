@@ -13,19 +13,6 @@ I recently finished a batch at [the Recurse Center](https://www.recurse.com/scou
  - (re)learning a bunch of stacks I've used, but never taken the time to deeply understand (ahem, CSS)
  - doing a bunch of miscellaneous projects on public transit, baseball, electricity markets, and more...
 
-I will be looking for a job at the conclusion of the batch (mid-February 2024), if you happen to be hiring, know of a job who would be a good fit, let me know :)
-
-### whoami
-
-My skills generally lie in my breadth of expertise: I am effective in [Haskell](https://github.com/nibrivia/oak/tree/olivia/rewrite), [Python](https://github.com/nibrivia/darksky-terminal-weather), [Rust](https://github.com/nibrivia/rusty-beaver), with [high-performance parallel computing (also Rust)](https://github.com/nibrivia/rustasim), [data analysis (R)](https://github.com/nibrivia/plotypus), and full-stack applications.
-(The selection of these projects is necessarily limited due to IP constraints.)
-
-My ability to explain (very) technical concepts to a less-technical audience is frequently highlighted, most publicly by MIT in its [highest teaching award for students](https://oge.mit.edu/community-diversity/awards-recognition/the-goodwin-medal/2020-olivia-brode-roger/) for my work teaching Computer Systems (OSes, Networks, Distributed Systems, and Security), and Digital Design (from transistors to an OS).
-At every org I've been a part of, I've been praised for being able to identify and fix systemic issues, communicate across teams/departments , and "being a multiplier" for the team.
-
-If you're looking for an expert to build/lead your team in $X, that's (probably) not going to be me: I have not spent many years narrowly focused on a single stack.
-
-I am looking for jobs that are either remote (US), or on the eastern seaboard (between DC and Boston), with a preference towards Boston.
 
 ### Previously
 
