@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working at [Column Tax](https://www.columntax.com/). 
+I will be a Visiting Lecturer at MIT in the Spring, for the 6.1800 course.
 
 ### Recurse Center
 
