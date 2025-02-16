@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I will be a Visiting Lecturer at MIT in the Spring, for the 6.1800 course.
+I am a Visiting Lecturer at MIT in the Spring, for the 6.1800 course.
 
 ### Recurse Center
 
